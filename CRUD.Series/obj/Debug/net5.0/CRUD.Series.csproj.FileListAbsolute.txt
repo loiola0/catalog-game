@@ -1,0 +1,16 @@
+/home/victor-gabriel/Documentos/cursos/catalog-game/CRUD.Series/bin/Debug/net5.0/CRUD.Series
+/home/victor-gabriel/Documentos/cursos/catalog-game/CRUD.Series/bin/Debug/net5.0/CRUD.Series.deps.json
+/home/victor-gabriel/Documentos/cursos/catalog-game/CRUD.Series/bin/Debug/net5.0/CRUD.Series.runtimeconfig.json
+/home/victor-gabriel/Documentos/cursos/catalog-game/CRUD.Series/bin/Debug/net5.0/CRUD.Series.runtimeconfig.dev.json
+/home/victor-gabriel/Documentos/cursos/catalog-game/CRUD.Series/bin/Debug/net5.0/CRUD.Series.dll
+/home/victor-gabriel/Documentos/cursos/catalog-game/CRUD.Series/bin/Debug/net5.0/ref/CRUD.Series.dll
+/home/victor-gabriel/Documentos/cursos/catalog-game/CRUD.Series/bin/Debug/net5.0/CRUD.Series.pdb
+/home/victor-gabriel/Documentos/cursos/catalog-game/CRUD.Series/obj/Debug/net5.0/CRUD.Series.csprojAssemblyReference.cache
+/home/victor-gabriel/Documentos/cursos/catalog-game/CRUD.Series/obj/Debug/net5.0/CRUD.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor-gabriel/Documentos/cursos/catalog-game/CRUD.Series/obj/Debug/net5.0/CRUD.Series.AssemblyInfoInputs.cache
+/home/victor-gabriel/Documentos/cursos/catalog-game/CRUD.Series/obj/Debug/net5.0/CRUD.Series.AssemblyInfo.cs
+/home/victor-gabriel/Documentos/cursos/catalog-game/CRUD.Series/obj/Debug/net5.0/CRUD.Series.csproj.CoreCompileInputs.cache
+/home/victor-gabriel/Documentos/cursos/catalog-game/CRUD.Series/obj/Debug/net5.0/CRUD.Series.dll
+/home/victor-gabriel/Documentos/cursos/catalog-game/CRUD.Series/obj/Debug/net5.0/ref/CRUD.Series.dll
+/home/victor-gabriel/Documentos/cursos/catalog-game/CRUD.Series/obj/Debug/net5.0/CRUD.Series.pdb
+/home/victor-gabriel/Documentos/cursos/catalog-game/CRUD.Series/obj/Debug/net5.0/CRUD.Series.genruntimeconfig.cache
