@@ -6,10 +6,10 @@ using ApiCatalogGames.InputModel;
 
 namespace ApiCatalogGames.Services
 {
-    public interface IGameService
+    public interface IGameService : IDisposable
     {
          Task<List<GameViewModel>> Get(int page,int quantity);
-         Task<List<GameViewModel>> Get(Guid idGame);
+         Task<GameViewModel> Get(Guid idGame);
          Task<GameViewModel> Insert(GameInputModel game);
          Task Update(Guid id,GameInputModel game);
          Task Update(Guid id,double price);

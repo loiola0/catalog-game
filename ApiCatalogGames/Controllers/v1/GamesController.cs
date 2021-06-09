@@ -8,6 +8,8 @@ using ApiCatalogGames.ViewModel;
 using ApiCatalogGames.InputModel;
 using ApiCatalogGames.Services;
 using System.ComponentModel.DataAnnotations;
+using ApiCatalogGames.Exceptions;
+
 
 namespace ApiCatalogGames.Controllers.v1
 {
@@ -82,7 +84,7 @@ namespace ApiCatalogGames.Controllers.v1
 
                 return Ok(game);
             }
-            catch (Exception)
+            catch (AlreadyRegisteredGameException)
             {
                 return UnprocessableEntity("There is already a game with this name for this producer");
             }
@@ -106,7 +108,7 @@ namespace ApiCatalogGames.Controllers.v1
 
                 return Ok();
             }
-            catch (Exception)
+            catch (UnregisteredGameException)
             {
                 return NotFound("There is no such game");
             }
@@ -128,7 +130,7 @@ namespace ApiCatalogGames.Controllers.v1
 
                 return Ok();
             }
-            catch (Exception)
+            catch (UnregisteredGameException)
             {
                 return NotFound("There is no surch game");
             }
@@ -149,7 +151,7 @@ namespace ApiCatalogGames.Controllers.v1
 
                 return Ok();
             }
-            catch (Exception)
+            catch (UnregisteredGameException)
             {
                 return NotFound("There is no surch game");
             }
