@@ -27,3 +27,9 @@
 /home/victor-gabriel/Documentos/cursos/catalog-game/ApiCatalogGames/obj/Debug/net5.0/ref/ApiCatalogGames.dll
 /home/victor-gabriel/Documentos/cursos/catalog-game/ApiCatalogGames/obj/Debug/net5.0/ApiCatalogGames.pdb
 /home/victor-gabriel/Documentos/cursos/catalog-game/ApiCatalogGames/obj/Debug/net5.0/ApiCatalogGames.genruntimeconfig.cache
+/home/victor-gabriel/Documentos/cursos/catalog-game/ApiCatalogGames/bin/Debug/net5.0/System.Data.SqlClient.dll
+/home/victor-gabriel/Documentos/cursos/catalog-game/ApiCatalogGames/bin/Debug/net5.0/runtimes/win-arm64/native/sni.dll
+/home/victor-gabriel/Documentos/cursos/catalog-game/ApiCatalogGames/bin/Debug/net5.0/runtimes/win-x64/native/sni.dll
+/home/victor-gabriel/Documentos/cursos/catalog-game/ApiCatalogGames/bin/Debug/net5.0/runtimes/win-x86/native/sni.dll
+/home/victor-gabriel/Documentos/cursos/catalog-game/ApiCatalogGames/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/victor-gabriel/Documentos/cursos/catalog-game/ApiCatalogGames/bin/Debug/net5.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll

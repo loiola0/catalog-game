@@ -14,7 +14,7 @@ namespace ApiCatalogGames.InputModel
         public string  Producer {get;set;}
 
         [Required]
-        [StringLength(1,MinimumLength = 1000, ErrorMessage = "The price must be at least BRL 1.0 and maximum BRL 1000.0 !")]
+        [Range(1,1000, ErrorMessage = "The price must be at least BRL 1.0 and maximum BRL 1000.0 !")]
         public double Price  {get;set;} 
     }
 }

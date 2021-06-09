@@ -21,7 +21,7 @@ namespace ApiCatalogGames.Controllers.v1
 
         private readonly IGameService _gameService;
 
-        GamesController(IGameService gameService)
+        public GamesController(IGameService gameService)
         {
             _gameService = gameService;
         }
